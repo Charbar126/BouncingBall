@@ -27,7 +27,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(600,400)
+  createCanvas(screen.width , screen.height)
   
   noStroke();
   
